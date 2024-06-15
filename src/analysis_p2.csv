@@ -1,0 +1,12 @@
+single-level cache:
+totalCycles: 6977711  average cycles: 29.9973
+
+inclusive three-level cache without victim:
+totalCycles: 2245319  average cycles: 9.65268
+
+exclusive three-level cache without victim:
+totalCycles: 2347039  average cycles: 10.09
+
+inclusive three-level cache with victim:
+totalCycles: 2242611  average cycles: 9.64104
+
